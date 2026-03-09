@@ -51,7 +51,7 @@ Backend system for an online homestay booking platform.
 `Spring Boot` `Spring Security` `JPA/Hibernate` `SQL Server` `Redis` `Thymeleaf`
 
 🔗 GitHub:  
-https://github.com/HoangHan-coder
+[https://github.com/HoangHan-coder](https://github.com/HoangHan-coder/book-now)
 
 ---
 
@@ -68,7 +68,7 @@ Developed an order management system for an e-commerce platform.
 `Java Servlet` `JSP` `SQL Server`
 
 🔗 GitHub:  
-https://github.com/HoangHan-coder
+[https://github.com/HoangHan-coder](https://github.com/HoangHan-coder/Project-PRJ301-TechZone)
 
 ---
 
