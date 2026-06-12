@@ -70,17 +70,6 @@ Developed an order management system for an e-commerce platform.
 🔗 GitHub:  
 [https://github.com/hoanghan-dev](https://github.com/hoanghan-dev/Project-PRJ301-TechZone)
 
----
-
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=hoanghan-dev&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hoanghan-dev&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=hoanghan-dev&theme=tokyonight)
-
----
 
 ## 📚 Current Focus
 
